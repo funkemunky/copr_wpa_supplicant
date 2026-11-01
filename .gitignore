@@ -1,0 +1,8 @@
+*.tar.gz
+*.src.rpm
+*.rpm
+/results_*/
+/wpa_supplicant-*/
+/noarch/
+/x86_64/
+/aarch64/
